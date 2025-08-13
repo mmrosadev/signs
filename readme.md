@@ -31,7 +31,7 @@ npm install
 Start the server:
 
 ```bash
-node src/index.js
+npm run start
 ```
 
 The server will be available at:
