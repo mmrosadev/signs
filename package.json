@@ -8,7 +8,7 @@
   },
   "author": "",
   "license": "ISC",
-  "description": "",
+  "description": "Signs API is a simple RESTful API built with Node.js, Express, and SQLite.",
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^5.1.0",
